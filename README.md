@@ -1,13 +1,13 @@
 # Machine Performance Analysis
 
-##Key Question
+## Key Question
 **"What can you tell me about my machine performance?"**
 
 This project explores machine sensor data to assess performance, identify patterns in failures, and build predictive models that can support preventive maintenance.
 
 ---
 
-##Project Summary
+## Project Summary
 
 - **Dataset:** `sample_interview_dataset.csv`
 - **Size:** 10,000 entries × 10 features
@@ -20,7 +20,7 @@ This project explores machine sensor data to assess performance, identify patter
 
 ---
 
-##Insights
+## Insights
 
 - Sensor readings (torque, rotational speed, tool wear) influence failure risk.
 - Time-based patterns indicate increasing error rates for certain machines.
@@ -28,7 +28,7 @@ This project explores machine sensor data to assess performance, identify patter
 
 ---
 
-##How to Use
+## How to Use
 
 1. Clone this repository:
    ```bash
